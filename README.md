@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Digitisation Station Dashboard is a patron-facing web application designed to help library users independently digitise their personal media (VHS tapes, audio cassettes, CDs) without requiring staff assistance. The dashboard emphasizes accessibility, plain language, and multilingual support to serve the diverse Georges River community.
+The Digitisation Station Dashboard is a patron-facing web application designed to help library users independently digitise their personal media (VHS tapes, audio cassettes, CDs) without requiring staff assistance. The dashboard emphasizes accessibility, plain language, and multilingual support to serve the diverse Georges River community .
 
 ### Key Features
 
